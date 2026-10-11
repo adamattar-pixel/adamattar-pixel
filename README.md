@@ -20,4 +20,4 @@ LeasENS and BidSui live in teammates' repositories and are linked as they were s
 
 ## Contact
 
-Feel free to reach out through my GitHub profile.
+Email: adam.attar@epfl.ch
