@@ -1,7 +1,5 @@
 # Adam Attar
 
-Computer science student interested in systems where correctness and performance matter: algorithms, data-heavy backends, and ML-assisted tools.
-
 **Main languages:** Java, Scala, Python, C
 **Also used in projects:** TypeScript, React, Rust, Solidity
 
